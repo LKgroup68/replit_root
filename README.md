@@ -21,4 +21,4 @@
 
 ```./dist/proot -S . /bin/bash```
 
-Now, You are Root. Enjoy!!
+Vous êtes root, profitez !
